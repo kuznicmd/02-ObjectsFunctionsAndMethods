@@ -29,8 +29,8 @@ def main():
     answer = triangle(3,4)
     print(answer)
 
-    turtle_pens('red', 20)
     turtle_pens('blue', 1)
+
 ###############################################################################
 #
 # DONE: 3a.  Define a function immediately blow this _TODO_.
